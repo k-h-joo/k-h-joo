@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **k-h-joo/k-h-joo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={aa010s})](https://solved.ac/{aa010s})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=aa010s)](https://solved.ac/aa010s)
+
+-->
