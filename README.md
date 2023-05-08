@@ -1,10 +1,10 @@
 
 <div>
 
-<h3 align="center"><i>🐹 Welocome to Joo's Space 📦</i></h3>
+<h3 align="center"><i>🐹 Joo's Space 📦</i></h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fff15f,50:ff9aed,100:7dfbff&height=8&" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffff&height=10&" /> <!--빈칸-->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80" /> <!--빈칸-->
 
 <div>
 
