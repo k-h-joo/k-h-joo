@@ -18,7 +18,7 @@
     <br>
     📁 I'm interested in...
     <ul>
-    <b>📄 Front-end Web Development 📄 Deep Learning 📄 Natural Language Processing </b>
+    <b>📄 Front-end Web Development <br> 📄 Deep Learning <br> 📄 Natural Language Processing </b>
     </ul>
     <h2> </h2>
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
